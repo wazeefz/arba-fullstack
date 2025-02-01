@@ -1,0 +1,6 @@
+[submodule "arba-frontend"]
+	path = arba-frontend
+	url = https://github.com/wazeefz/arba-frontend.git
+[submodule "arba-backend"]
+	path = arba-backend
+	url = https://github.com/wazeefz/arba-backend.git
