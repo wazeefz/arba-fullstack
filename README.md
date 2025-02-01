@@ -12,8 +12,8 @@ Ensure the following dependencies are installed before running the application:
 ## Installation & Setup
 1. **Clone the repository:**
    ```sh
-   git clone <repo-url>
-   cd <repo-folder>
+   git clone https://github.com/wazeefz/arba-fullstack
+   cd arba-fullstack
    ```
 
 2. **Run the application using Docker Compose:**
