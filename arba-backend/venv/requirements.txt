@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+# jwt
+bcrypt
+datetime
+uuid
+pyjwt
+python-multipart
+sqlalchemy
+asyncpg
+databases
+psycopg2
+# PyJWTError
+# psycopg2-binary  # If using PostgreSQL
+# mysql-connector-python  # If using MySQL
